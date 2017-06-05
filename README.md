@@ -1,5 +1,5 @@
-**sample run
-`
+## sample run
+```
 :compileJava UP-TO-DATE
 :processResources UP-TO-DATE
 :classes UP-TO-DATE
@@ -26,4 +26,4 @@ Server stopped.
 BUILD SUCCESSFUL
 
 Total time: 13.423 secs
-`
+```
