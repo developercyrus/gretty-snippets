@@ -1,5 +1,9 @@
 ## sample run
 ```
+gradle integrationTest
+```
+## sample result
+```
 :compileJava UP-TO-DATE
 :processResources UP-TO-DATE
 :classes UP-TO-DATE
