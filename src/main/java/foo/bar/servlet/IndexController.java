@@ -22,8 +22,8 @@ public class IndexController extends HttpServlet {
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException{
 		response.setContentType("text/plain");
         PrintWriter out = response.getWriter();
-        out.println("say Hello!");
+        out.println("<div>Hello World!</div>");
         
-		logger.debug("say Hello!");				
+		logger.debug("Hello World!");				
 	}
 }
